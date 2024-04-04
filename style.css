@@ -1,0 +1,111 @@
+.image img {
+    width: 135px;
+}
+
+.card-custom {
+    background: #75BF7A;
+}
+
+.col-custum {
+    background-color: #75BF7A;
+}
+
+.para-green {
+    color: #75BF7A;
+}
+.mobile{
+    position: relative;
+}
+.mobile img{
+    position: absolute;
+    top: -30px;
+    left: 70px;
+}
+
+
+
+
+
+@media screen and (max-width:990px) {
+    .cont-custooom {
+        height: 1240px;
+    }
+    .ellipse{
+        margin-bottom: 20px;
+    }
+
+    .third-1 {
+        position: relative;
+    }
+
+    .third-cutom {
+        position: absolute;
+        top: -60px;
+    }
+
+    .two-2 {
+        position: relative;
+    }
+
+    .toww-22 {
+        position: absolute;
+        top: 200px;
+    }
+
+    .sixthh {
+        position: relative;
+    }
+
+    .sixthh-one {
+        position: relative;
+        top: 360px;
+    }
+}
+
+
+@media screen and (max-width:574px) {
+    .cont-custooom {
+        height: 1340px;
+    }
+    .ellipse{
+        position: relative;
+        top: -200px;
+    }
+
+    .one-1 {
+        position: relative;
+    }
+
+    .onnee-2 {
+        position: relative;
+        top:440px
+    }
+
+    .third-1 {
+        position: relative;
+    }
+
+    .third-cutom {
+        position: absolute;
+        top: 0px;
+    }
+
+    .two-2 {
+        position: relative;
+    }
+
+    .toww-22 {
+        position: absolute;
+        top: 675px;
+    }
+
+    .sixthh {
+        position: relative;
+    }
+
+    .sixthh-one {
+        position: relative;
+        top: 450px;
+    }
+}
+
