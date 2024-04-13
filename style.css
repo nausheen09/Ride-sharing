@@ -78,7 +78,7 @@
 
     .onnee-2 {
         position: relative;
-        top:440px
+        top:460px;
     }
 
     .third-1 {
@@ -96,7 +96,58 @@
 
     .toww-22 {
         position: absolute;
-        top: 675px;
+        top: 690px;    
+    }
+
+    .sixthh {
+        position: relative;
+    }
+
+    .sixthh-one {
+        position: relative;
+        top: 450px;
+    }
+}
+
+@media screen and (max-width:402px) {
+    .ellipse{
+        position: relative;
+        top: -200px;
+    }
+    .ellipse img{
+        width: 90%;
+        margin-left: 20px;
+    }
+    .mobile img{
+        width: 200px;
+        height: 400px;   
+    }
+
+    .one-1 {
+        position: relative;
+    }
+
+    .onnee-2 {
+        position: relative;
+        top:440px
+    }
+
+    .third-1 {
+        position: relative;
+    }
+
+    .third-cutom {
+        position: absolute;
+        top: 0px; 
+    }
+
+    .two-2 {
+        position: relative;
+    }
+
+    .toww-22 {
+        position: absolute;
+        top: 638px;
     }
 
     .sixthh {
